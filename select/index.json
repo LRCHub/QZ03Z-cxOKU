@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不屈に花 - Fukutsu ni hana",
+  "base_artist": "jo0ji",
+  "createdAt": "2026-03-15T03:44:56.110957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不屈に花",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/pl_01_不屈に花_jo0ji.txt"
+    }
+  ]
+}
